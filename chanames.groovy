@@ -1,0 +1,10 @@
+setChannelNames(
+     'DAPI',
+     'CD45',
+     'Insulin',
+     'MHC1',
+     'STAT1',
+     'Glucagon',
+     'Proinsulin',
+     'Autofluorescent'
+)
